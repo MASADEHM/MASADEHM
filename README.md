@@ -1,79 +1,88 @@
-# Hi there 👋 I'm Muhammad Masadeh
+::: {align="center"}
+# Hi 👋 I'm Muhammad Masadeh
 
-**Software Development Lead \| Solution Architect \| AI Engineer**
+### Software Development Lead • Solution Architect • AI Engineer
 
-> **Building Enterprise Software with AI at the Core.**
+**Building Enterprise Software with AI at the Core**
+
+```{=html}
+<p>
+```
+`<a href="https://github.com/MASADEHM">`{=html}`<img src="https://komarev.com/ghpvc/?username=MASADEHM&style=for-the-badge" />`{=html}`</a>`{=html}
+`<a href="https://github.com/MASADEHM">`{=html}`<img src="https://img.shields.io/github/followers/MASADEHM?style=for-the-badge" />`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/muhammad-masadeh-4947bb4a/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Enterprise+Software+Architect;AI+Engineer;React+%7C+.NET+%7C+NestJS;Building+AI-Powered+Solutions;Government+Digital+Transformation"/>`{=html}
+:::
 
 ------------------------------------------------------------------------
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
--   💼 Software Development Lead focused on enterprise and government
-    digital transformation.
--   🏛️ Designing scalable, secure, and modern business platforms.
--   🤖 Passionate about AI Engineering, Agentic AI, LLMs, and workflow
+-   💼 Software Development Lead delivering enterprise and government
+    digital transformation solutions.
+-   🏗️ Solution Architect focused on scalable, secure and maintainable
+    platforms.
+-   🤖 Passionate about AI Engineering, AI Agents, LLMs and workflow
     automation.
--   ⚙️ Building solutions with **React, NestJS, TypeScript, PostgreSQL,
-    and Prisma**.
--   🧠 Exploring **LangGraph, LangChain, MCP, RAG, n8n, Ollama, and AI
-    orchestration**.
--   ☁️ Experienced with AWS, Azure, Docker, and cloud-native
-    architectures.
--   📚 Always learning and experimenting with emerging technologies.
+-   🚀 Building modern applications using **React, .NET, NestJS,
+    PostgreSQL and AWS**.
+-   🌱 Currently exploring **LangGraph, MCP, Claude Code, n8n and
+    Enterprise AI**.
 
 ------------------------------------------------------------------------
 
-## 💻 Tech Stack
+## 🛠 Technologies
 
-### Frontend
+::: {align="center"}
+### Languages & Frameworks
 
--   React
--   TypeScript
--   Vite
--   Ant Design
--   Tailwind CSS
+`<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,nodejs,nestjs,html,css,tailwind"/>`{=html}
 
-### Backend
+### Databases & Cloud
 
--   NestJS
--   Node.js
--   Prisma
--   PostgreSQL
--   SQL Server
--   Oracle Database
+`<img src="https://skillicons.dev/icons?i=postgres,azure,aws,docker,git,github"/>`{=html}
+:::
 
-### AI & Automation
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+**Enterprise** - SharePoint - Microsoft Dynamics CRM - Power Apps -
+Keycloak - Oracle Database - SQL Server
 
--   OpenAI
--   LangChain
--   LangGraph
--   n8n
--   Ollama
--   MCP
--   RAG
--   Mistral OCR
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+**AI Stack** - OpenAI - LangChain - LangGraph - n8n - Ollama - MCP -
+RAG - Mistral OCR
 
-### Cloud & DevOps
-
--   AWS
--   Azure
--   Docker
--   GitHub Actions
-
-### Enterprise Platforms
-
--   Microsoft Dynamics CRM
--   SharePoint
--   Power Apps
--   Keycloak
--   REST APIs
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
 ------------------------------------------------------------------------
 
-## 🏗️ Current Interests
+## 🚀 Current Focus
 
--   AI Agents
--   Enterprise AI
+-   AI Agents & Agentic Workflows
+-   Enterprise AI Solutions
 -   Software Architecture
 -   Intelligent Document Processing
 -   Business Process Automation
@@ -81,47 +90,45 @@
 
 ------------------------------------------------------------------------
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-Replace `YOUR_GITHUB_USERNAME` with your username.
-
-``` md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=MASADEHM&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASADEHM&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=MASADEHM&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
 ```
 
 ------------------------------------------------------------------------
 
-## 🌱 Currently Learning
+## 🎯 Areas of Interest
 
--   Advanced AI Agent Architectures
--   Multi-Agent Systems
--   Claude Code
--   Enterprise AI Platforms
--   AI Product Engineering
+-   🏛 Government Digital Transformation
+-   🤖 Enterprise AI
+-   ⚙️ System Architecture
+-   ☁️ Cloud Native Applications
+-   📄 Intelligent Document Processing
+-   🔄 Workflow Automation
 
 ------------------------------------------------------------------------
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 -   💼 LinkedIn: https://www.linkedin.com/in/muhammad-masadeh-4947bb4a/
--   💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+-   💻 GitHub: https://github.com/MASADEHM
 
 ------------------------------------------------------------------------
 
-## 🛠 Recommended Badges
-
-``` md
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-```
-
-------------------------------------------------------------------------
-
-⭐ *Thanks for visiting my profile! If you're interested in enterprise
-architecture, AI engineering, or digital transformation, feel free to
-connect.*
+::: {align="center"}
+⭐ *Thanks for stopping by! If you're interested in Enterprise
+Architecture, AI Engineering, or Digital Transformation, let's connect.*
+:::
