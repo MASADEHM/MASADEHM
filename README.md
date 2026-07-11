@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enterprise_Software_Architect-000000?style=for-the-badge&logoColor=white" alt="Enterprise Software Architect" />
+  <img src="https://img.shields.io/badge/Software_Architect-000000?style=for-the-badge&logoColor=white" alt="Enterprise Software Architect" />
   <img src="https://img.shields.io/badge/AI_Engineer-FF6B6B?style=for-the-badge&logoColor=white" alt="AI Engineer" />
   <img src="https://img.shields.io/badge/React_|_.NET_|_NestJS-61DAFB?style=for-the-badge&logoColor=white" alt="Tech Stack" />
 </p>
